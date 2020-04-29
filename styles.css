@@ -248,7 +248,6 @@ body {
   cursor: pointer;
 }
 /*---------- End of Cart Item -------------------- */
-
 .cart-footer {
   margin-top: 2rem;
   letter-spacing: var(--mainSpacing);
@@ -257,6 +256,5 @@ body {
 .cart-footer h3 {
   text-transform: capitalize;
   margin-bottom: 1rem;
-}
-
+};
 /* --------------- End of Cart ---------------- */
